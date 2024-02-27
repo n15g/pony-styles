@@ -1,0 +1,12 @@
+.idea
+
+.DS_Store
+Thumbs.db
+
+*.safetensors
+*.ckpt
+
+log/
+out/
+raw/
+
