@@ -18,6 +18,7 @@ Steps: 25, Sampler: Euler a, CFG scale: 7, Seed: 26029763, Size: 864x1152, Model
 | `23_(real_xxiii)`           | ![](_base.png) | ![](23_(real_xxiii).png)           | ![](23_(real_xxiii).hm.png)           |
 | `aaaa_quad-a`               | ![](_base.png) | ![](aaaa_(quad-a).png)             | ![](aaaa_(quad-a).hm.png)             |
 | `agawa_ryou`                | ![](_base.png) | ![](agawa_ryou.png)                | ![](agawa_ryou.hm.png)                |
+| `agm`                       | ![](_base.png) | ![](agm.png)                       | ![](agm.hm.png)                       |
 | `akano_murasaki`            | ![](_base.png) | ![](akano_murasaki.png)            | ![](akano_murasaki.hm.png)            |
 | `akashio_(loli_ace)`        | ![](_base.png) | ![](akashio_(loli_ace).png)        | ![](akashio_(loli_ace).hm.png)        |
 | `akinbo_(hyouka_fuyou)`     | ![](_base.png) | ![](akinbo_(hyouka_fuyou).png)     | ![](akinbo_(hyouka_fuyou).hm.png)     |
