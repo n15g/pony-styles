@@ -1,8 +1,8 @@
-# Pony Diffusion Style Comparisons - PonyDiffusion V6 "Claire"
+# Pony Diffusion Style Comparisons - Js2Prony "Claire"
 
 |         |                                                                                         |
 |---------|-----------------------------------------------------------------------------------------|
-| Model   | [PonyDiffusion V6](https://civitai.com/models/257749/pony-diffusion-v6-xl)              |
+| Model   | [Js2Prony](https://civitai.com/models/280321/js2prony)                                  |
 | Subject | "Claire"; Random build-in female subject - `1girl`, `twintails`, `blonde hair`, `shirt` |
 
 ```
