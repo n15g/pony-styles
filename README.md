@@ -13,4 +13,4 @@ Style wildcards: https://github.com/n15g/Wildcards-for-SD/blob/main/Wildcards/st
 
 ### Samples
 
-* [PonyDiffusion V6 base - Subject "Claire"](pdv6-claire/README.md)
+* [Js2Prony - Subject "Claire"](js2prony-claire/README.md)

@@ -1,9 +1,9 @@
-# Pony Diffusion Style Comparisons - Js2Prony "Claire"
+# Js2Prony "Claire" Style Comparison
 
 |         |                                                                                         |
 |---------|-----------------------------------------------------------------------------------------|
 | Model   | [Js2Prony](https://civitai.com/models/280321/js2prony)                                  |
-| Subject | "Claire"; Random build-in female subject - `1girl`, `twintails`, `blonde hair`, `shirt` |
+| Subject | "Claire"; Random built-in female subject - `1girl`, `twintails`, `blonde hair`, `shirt` |
 
 ```
 score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_cartoon, source_anime,
